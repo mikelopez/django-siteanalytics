@@ -30,7 +30,7 @@ def robots(request):
     """
     return HttpResponse('User-agent: *', mimetype="text/plain")
 
-def index(request, linkname=None, filtername=None):
+def test_index(request, linkname=None, filtername=None):
     """
         Index View
         Set the logger instance
