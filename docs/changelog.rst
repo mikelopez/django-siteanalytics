@@ -3,6 +3,12 @@
 ChangeLog
 =========
 
+0.2.2
+-----
+- bugfix on template structure - changed to appname/templates/appname/files.html
+- modified the manifest file for setuptools 
+
+
 0.2.1
 -----
 - bugfix on views
